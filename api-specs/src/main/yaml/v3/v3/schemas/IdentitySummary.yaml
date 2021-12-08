@@ -2,6 +2,8 @@
 type: object
 nullable: true
 properties:
+  test:
+    type: string
   id:
     type: string
     description: ID of this identity summary
